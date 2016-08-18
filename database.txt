@@ -1,0 +1,6 @@
+CREATE TABLE animals
+(
+id serial PRIMARY KEY,
+animal varchar(50),
+count int
+);
